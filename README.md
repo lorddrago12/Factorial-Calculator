@@ -24,13 +24,13 @@ A simple JavaScript utility that calculates the factorial of any non-negative in
 Clone the repository:
 
 ```bash
-git clone https://github.com/lorddrago12/-Factorial-Calculator.git
+git clone https://github.com/lorddrago12/Factorial-Calculator.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd -Factorial-Calculator
+cd Factorial-Calculator
 ```
 
 Run the application:
@@ -102,7 +102,7 @@ Contributions are welcome! Follow these steps to contribute:
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/your-username/-Factorial-Calculator.git
+   git clone https://github.com/your-username/Factorial-Calculator.git
    ```
 3. **Create** a new branch:
    ```bash
